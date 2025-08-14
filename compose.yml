@@ -6,6 +6,8 @@ services:
       VERSION: "11"
       RAM_SIZE: "12G"
       CPU_CORES: "4"
+      USERNAME: "HaiderRDP"
+      PASSWORD: "ali123"
     devices:
       - /dev/kvm
       - /dev/net/tun
